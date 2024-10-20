@@ -38,7 +38,7 @@ To get started, clone the AI4Bharat NeMo repository and switch to the correct br
 
 ```bash
 git clone https://github.com/AI4Bharat/NeMo.git && cd NeMo && git checkout nemo-v2 && bash reinstall.sh
-
+```
 
 ### Step 2: Install Additional Dependencies
     Next, install any additional dependencies required for the project:
