@@ -1,6 +1,6 @@
 # Bhashika : Dialect Based Text-to-Speech Model for Indic Languages
 
-This report outlines two distinct processes aimed at enhancing the accessibility and usability of regional Hindi language content: the transcription of Hindi audio files using AI4Bharat's Automatic Speech Recognition (ASR) models and the generation of speech in a regional accent utilising the Toucan Text-to-Speech (TTS) model.
+This readme outlines two distinct processes aimed at enhancing the accessibility and usability of regional Hindi language content: the transcription of Hindi audio files using AI4Bharat's Automatic Speech Recognition (ASR) models and the generation of speech in a regional accent utilising the Toucan Text-to-Speech (TTS) model.
 
 ## Table of Contents
 
