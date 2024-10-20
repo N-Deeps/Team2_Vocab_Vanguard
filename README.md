@@ -26,6 +26,14 @@ The project consists of two main functionalities:
 ### Text-to-Speech Generation
 - Uses the Toucan TTS model to convert given text into speech, producing an audio file.
 
+## Pipeline
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9d2e3b28-4654-49f3-83a4-e52b5486dbd6" alt="Pipeline" width="500"/>
+</p>
+
+
+
 ## Requirements
 
 Make sure you have the following:
