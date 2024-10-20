@@ -82,7 +82,7 @@ The provided code uses the os library to manage directories and file paths. Here
 
 os: This library provides a way of using operating system-dependent functionality like reading or writing to the file system. In the code, os.makedirs is used to create a directory if it does not already exist.
 
-Code Functionality
+#### Code Functionality
 read_texts: This function initializes the TTS model and reads a given text sentence, saving the output to a specified file.
 dialect_generation: This function creates the output directory and calls read_texts to generate an audio file of the specified dialect.
 The main section determines whether to use a GPU or CPU, prepares the speaker references, and calls dialect_generation.
