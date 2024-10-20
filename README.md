@@ -94,6 +94,7 @@ Run the transcription script to generate the transcriptions.
 Use the provided TTS script to generate audio files from text.
 
 ## References:
+### AI4Bharat - IndicTTS [[code link]](https://github.com/AI4Bharat/Indic-TTS)
 
 ### IMS-Toucan [[associated code and models]](https://github.com/DigitalPhonetics/IMS-Toucan)
 ```
