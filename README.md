@@ -29,7 +29,7 @@ The project consists of two main functionalities:
 ## Pipeline
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/9d2e3b28-4654-49f3-83a4-e52b5486dbd6" alt="Pipeline" width="500"/>
+  <img src="https://github.com/user-attachments/assets/a43a7d5c-2d2a-4e0b-aa57-01f3b2c8dc96" alt="Model Pipeline" width="500"/>
 </p>
 
 
