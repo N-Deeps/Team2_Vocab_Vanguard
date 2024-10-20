@@ -7,7 +7,8 @@ This repository demonstrates how to download audio files from a CSV dataset and 
 1. [Overview](#overview)
 2. [Requirements](#requirements)
 3. [Installation](#installation)
-4. [Files Description](#files-description)
+4. [Files Description](#files_description)
+5. [References](#references)
 
 ## Overview
 
@@ -50,7 +51,7 @@ git clone https://github.com/AI4Bharat/NeMo.git && cd NeMo && git checkout nemo-
 Download the Hindi IndicConformer ASR model, which will be used for transcription:
       wget "https://objectstore.e2enetworks.net/indic-asr-public/indicConformer/ai4b_indicConformer_hi.nemo" -O checkpoint.nemo
 
-## Files and Folders Description
+## Files and Folder Description:
 
 1. **Bihar_combined_file.csv**  
    This is the input dataset containing URLs for the corresponding .wav audio files. Each entry in the CSV provides a link to an audio file that will be processed for transcription.
@@ -63,5 +64,19 @@ Download the Hindi IndicConformer ASR model, which will be used for transcriptio
 
 4. **Bihar_Dataset_wavFiles/**  
    This folder contains the downloaded .wav audio files corresponding to the URLs provided in the **Bihar_combined_file.csv**. Each audio file is named in accordance with its respective entry in the CSV file.
+
+
+## References:
+
+### IMS-Toucan [[associated code and models]](https://github.com/DigitalPhonetics/IMS-Toucan)
+```
+@inproceedings{lux2021toucan,
+  year         = 2021,
+  title        = {{The IMS Toucan system for the Blizzard Challenge 2021}},
+  author       = {Florian Lux and Julia Koch and Antje Schweitzer and Ngoc Thang Vu},
+  booktitle    = {Blizzard Challenge Workshop},
+  publisher    = {ISCA Speech Synthesis SIG}
+}
+```
 
 
