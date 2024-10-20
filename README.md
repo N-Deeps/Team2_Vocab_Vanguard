@@ -1,6 +1,6 @@
 # Bhashika : Dialect Based Text-to-Speech Model for Indic Languages
 
-This repository demonstrates how to download audio files from a CSV dataset, transcribe them into regional Hindi using AI4Bharat's ASR (Automatic Speech Recognition) models, and generate speech audio files using Toucan TTS.
+This report outlines two distinct processes aimed at enhancing the accessibility and usability of regional Hindi language content: the transcription of Hindi audio files using AI4Bharat's Automatic Speech Recognition (ASR) models and the generation of speech in a regional accent utilising the Toucan Text-to-Speech (TTS) model.
 
 ## Table of Contents
 
