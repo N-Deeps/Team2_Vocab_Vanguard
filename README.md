@@ -7,11 +7,7 @@ This repository demonstrates how to download audio files from a CSV dataset and 
 1. [Overview](#overview)
 2. [Requirements](#requirements)
 3. [Installation](#installation)
-4. [Usage](#usage)
-5. [Files Description](#files-description)
-6. [Notes](#notes)
-7. [Potential Issues](#potential-issues)
-8. [License](#license)
+4. [Files Description](#files-description)
 
 ## Overview
 
@@ -42,6 +38,7 @@ To get started, clone the AI4Bharat NeMo repository and switch to the correct br
 
 ```bash
 git clone https://github.com/AI4Bharat/NeMo.git && cd NeMo && git checkout nemo-v2 && bash reinstall.sh
+
 
 ### Step 2: Install Additional Dependencies
     Next, install any additional dependencies required for the project:
